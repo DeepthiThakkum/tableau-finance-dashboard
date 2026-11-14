@@ -4,10 +4,6 @@
 
 A single-page Tableau dashboard for executive-level financial reporting: KPI cards with year-over-year change, a this-year-vs-last-year trend line with a metric selector, an income statement waterfall, and Division/Region filters behind a show/hide button.
 
-This is a **practice project**, built by following a video tutorial and then debugging my own version of it. The credit and what I changed are below.
-
-> **Source:** [Tableau for Finance - Build Dashboards That Actually Drive Decisions](https://www.youtube.com/watch?v=W9MylRvylUk) by **Golden Insights** (May 2025). The dataset, icon images and formula doc come from that video's description.
->
 > **Related:** my general Tableau study notes, where the underlying concepts are written up, are in [tableau-notes](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO) (notes from the Simon Says IT course). See [Concepts applied](#concepts-applied).
 
 ---
