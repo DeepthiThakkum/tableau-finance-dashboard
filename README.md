@@ -185,17 +185,17 @@ A one-mark sheet with a custom icon as the shape. The text and the most recent m
 
 ## Concepts applied
 
-Each of these is written up in my [Tableau study notes](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO):
+Each of these is written up in my [Tableau study notes](https://github.com/DeepthiThakkum/tableau-notes):
 
 | What I used here | Notes section |
 |---|---|
-| Measure Names / Measure Values, discrete vs continuous, marks | [Building a View](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#9-building-a-view) |
-| Second pivoted data source, blending and link icons | [Combining Data](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#10-combining-data) |
-| Metric-selector parameter | [Parameters](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#11-parameters) |
-| Nested `FIXED` LODs for axis min/max | [Level of Detail (LOD) Expressions](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#12-level-of-detail-lod-expressions) |
-| Division / Region sets | [Groups and Sets](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#13-groups-and-sets) |
-| Why `FIXED` ignores dimension filters | [Filters and Order of Operations](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#16-filters-and-order-of-operations) |
-| Running total behind the waterfall | [Table Calculations](https://github.com/YOUR-USERNAME/YOUR-NOTES-REPO#17-table-calculations) |
+| Measure Names / Measure Values, discrete vs continuous, marks | [Building a View](https://github.com/DeepthiThakkum/tableau-notes#9-building-a-view) |
+| Second pivoted data source, blending and link icons | [Combining Data](https://github.com/DeepthiThakkum/tableau-notes#10-combining-data) |
+| Metric-selector parameter | [Parameters](https://github.com/DeepthiThakkum/tableau-notes#11-parameters) |
+| Nested `FIXED` LODs for axis min/max | [Level of Detail (LOD) Expressions](https://github.com/DeepthiThakkum/tableau-notes#12-level-of-detail-lod-expressions) |
+| Division / Region sets | [Groups and Sets](https://github.com/DeepthiThakkum/tableau-notes#13-groups-and-sets) |
+| Why `FIXED` ignores dimension filters | [Filters and Order of Operations](https://github.com/DeepthiThakkum/tableau-notes#16-filters-and-order-of-operations) |
+| Running total behind the waterfall | [Table Calculations](https://github.com/DeepthiThakkum/tableau-notes#17-table-calculations) |
 
 ---
 
