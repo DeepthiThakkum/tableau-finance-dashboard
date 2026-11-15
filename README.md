@@ -205,10 +205,7 @@ Most of the learning came from things that didn't work the first time.
 
 | Problem | Cause | Fix |
 |---|---|---|
-| Title text sat in the middle of the dashboard instead of the top left | The text object was floating at 1,905 x 1,185 and Tableau centres text vertically in its box | Shrank the object in the Layout tab and set its position |
 | KPI table showed **"No data available"** | The Date filter was a *relative* "This year" filter. The data is 2024-25 and "this year" resolved to 2026 | Switched to **Previous year** after checking the data's actual date range |
-| Header text clipped ("Gross marg..") | Wrap was on, but the header row was only one line tall | Made the header row taller on the worksheet itself, not the dashboard |
-| Values or borders looked missing or faded | A clicked mark leaves a blue selection and dims everything else; layered sheets also hid the box borders | Cleared the selection and removed worksheet and header shading |
 | Waterfall table showed one huge strip of numbers per row | The pivot had pulled in **Date, Division and Region** as well as the measures | Kept only the ten numeric measures in the pivot |
 | Waterfall showed `320` for every row | The pill was `CNTD` (count distinct) rather than `SUM` | Changed the aggregation to Sum |
 | **Pre-Tax Income bar floated instead of starting at zero** | `Starting` tested for `"Pre-tax Income"`, but the data says `"Pre-Tax Income"` and Tableau text comparison is **case-sensitive** | Corrected the spelling in the formula |
